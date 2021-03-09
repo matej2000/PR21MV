@@ -16,13 +16,13 @@ na spletni strani podatki.gov.si (https://podatki.gov.si/dataset/mnzpprometne-ne
   
   
   ### Vprašanja
-  * Kakšni vozniki povzročajo največ nesreč?
+  * Kateri vozniki povzročajo največ nesreč?
   * Kakšne okoliščine povzročajo največ nesreč?
-  * Ali količina alkohola v krvi vpliva na težavnost poškodbe?
+  * Ali količina alkohola v krvi voznika, vpliva na težavnost poškodbe?
   
 
 ## Opis podatkov
-Podatki so podatni v 2 datotekah tipa csv. Datoteki obsegata ena 33896 in druga 26074 vrstic, kjer vsaka vrstica predstavlja eno nesrečo. Atributi:
+Podatki so podani v 2 datotekah tipa csv. Datoteki obsegata ena 33896 in druga 26074 vrstic, kjer vsaka vrstica predstavlja eno nesrečo. Atributi:
 
 * Številka za štetje in ločevanje posamezne prometne nesreče,
 * klasifikacija nesreče glede na posledice (Izračuna se avtomatično glede na najhujšo posledico pri udeležencih v prometni nesreči),
