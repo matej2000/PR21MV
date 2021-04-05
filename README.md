@@ -55,3 +55,7 @@ V obeh datotekah je nekaj mankojočih podatkov. Ker je podatkov veliko, sem se o
  * 2:  0,5 g/kg ali 0,24 mg/l < x < 0,8 g/kg ali 0,38 mg/l
  * 3: >0,8 g/kg ali 0,38 mg/l<br>
  Meje so postavljene na podlagi stopenj vpliva alkohola (https://www.avp-rs.si/preventiva/svetovalnica/vozniki/).
+
+## Primerjava let
+Kot lahko opazimo, je število nesreč v letu 2019 več. To lahko povežemo z omejitvenimi ukrepi za omilitev epidemije.
+<img src="Slike/2019datumHist.png">
