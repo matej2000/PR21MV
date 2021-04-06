@@ -57,7 +57,9 @@ V obeh datotekah je nekaj mankojočih podatkov. Ker je podatkov veliko, sem se o
 * 0: <0,3 g/kg ali 0,14 mg/l
 * 1: 0,3 g/kg ali 0,14 mg/l < x < 0,5 g/kg ali 0,24 mg/l
 * 2:  0,5 g/kg ali 0,24 mg/l < x < 0,8 g/kg ali 0,38 mg/l
-* 3: >0,8 g/kg ali 0,38 mg/l \n
+* 3: >0,8 g/kg ali 0,38 mg/l
+
+&nbsp;
 Meje so postavljene na podlagi stopenj vpliva alkohola (https://www.avp-rs.si/preventiva/svetovalnica/vozniki/).
 
 ## Primerjava let
@@ -65,3 +67,8 @@ Meje so postavljene na podlagi stopenj vpliva alkohola (https://www.avp-rs.si/pr
 Kot lahko opazimo, je število nesreč v letu 2019 več. To lahko povežemo z zajezitvenimi ukrepi epidmije. Tej so nastopili ob prvem valu zacetek marca (13.3.2020 - 31.5.2020). Ob drugem valu pa oktobra in veljajo še zdaj (5.4.2020). Tem datumom ustrezajo tudi pomanšanja na grafu. Medtem pa je prvi graf dokaj uniformen. Vrhi so ob začetku poletnih počitnic in ob pričetku šol.
 ![2019 porazdelitev](Slike/2019datumHist.png "2019 porazdelitev")
 ![2020 porazdelitev](Slike/2020datumHist.png "2020 porazdelitev")
+
+## Vozniki
+
+Iz grafa lahko razberemo, da je največ povzročiteljev nesreč mladih voznikov (starih okoli 20 let). Kar lahko navežemo na njohovo neizkušenost v prometu. Medtem pa je porazdelitev udeležencev normalna, vrh pa dosegajo vozniki okoli 40-ga leta starosti.
+![frekvenca/starost](Slike/sSStarost.png "frekvenca/starost")
