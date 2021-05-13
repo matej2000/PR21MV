@@ -12,7 +12,7 @@ na spletni strani podatki.gov.si (https://podatki.gov.si/dataset/mnzpprometne-ne
 ## Cilji
   * Analiza in vizualizacija podatkov.
   * Odgovoriti na vnaprej postavljena vprašanja in na morebitna vprašanja, ki se pojavijo ob reševanju problema.
-  * Napovedovanje vrednosti alkohola v krvi na podlagi okoliščin nesreče.
+  * Napovedovanje klasifikacije nesreče.
   
   
   ### Vprašanja
